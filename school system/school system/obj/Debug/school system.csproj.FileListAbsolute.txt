@@ -1,0 +1,104 @@
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\school system.exe.config
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\school system.exe
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\school system.pdb
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Al Badr\source\repos\newproj\school system\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Al Badr\source\repos\newproj\school system\obj\Debug\school system.csproj.AssemblyReference.cache
+C:\Users\Al Badr\source\repos\newproj\school system\obj\Debug\school system.csproj.SuggestedBindingRedirects.cache
+C:\Users\Al Badr\source\repos\newproj\school system\obj\Debug\school_system.main.resources
+C:\Users\Al Badr\source\repos\newproj\school system\obj\Debug\school_system.Properties.Resources.resources
+C:\Users\Al Badr\source\repos\newproj\school system\obj\Debug\school system.csproj.GenerateResource.cache
+C:\Users\Al Badr\source\repos\newproj\school system\obj\Debug\school system.exe.licenses
+C:\Users\Al Badr\source\repos\newproj\school system\obj\Debug\school system.csproj.CoreCompileInputs.cache
+C:\Users\Al Badr\source\repos\newproj\school system\obj\Debug\school system.csproj.CopyComplete
+C:\Users\Al Badr\source\repos\newproj\school system\obj\Debug\school system.exe
+C:\Users\Al Badr\source\repos\newproj\school system\obj\Debug\school system.pdb
+C:\Users\Al Badr\source\repos\newproj\school system\obj\Debug\school_system.Courses.resources
+C:\Users\Al Badr\source\repos\newproj\school system\obj\Debug\school_system.login_form.resources
+E:\repos\newproj\school system\bin\Debug\school system.exe.config
+E:\repos\newproj\school system\bin\Debug\school system.exe
+E:\repos\newproj\school system\bin\Debug\school system.pdb
+E:\repos\newproj\school system\bin\Debug\DevExpress.Drawing.v22.1.dll
+E:\repos\newproj\school system\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+E:\repos\newproj\school system\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+E:\repos\newproj\school system\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+E:\repos\newproj\school system\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+E:\repos\newproj\school system\bin\Debug\DevExpress.Data.v22.1.xml
+E:\repos\newproj\school system\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+E:\repos\newproj\school system\bin\Debug\DevExpress.Utils.v22.1.xml
+E:\repos\newproj\school system\bin\Debug\DevExpress.XtraBars.v22.1.xml
+E:\repos\newproj\school system\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+E:\repos\newproj\school system\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+E:\repos\newproj\school system\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+E:\repos\newproj\school system\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+E:\repos\newproj\school system\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+E:\repos\newproj\school system\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+E:\repos\newproj\school system\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+E:\repos\newproj\school system\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+E:\repos\newproj\school system\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+E:\repos\newproj\school system\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+E:\repos\newproj\school system\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+E:\repos\newproj\school system\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+E:\repos\newproj\school system\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+E:\repos\newproj\school system\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+E:\repos\newproj\school system\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+E:\repos\newproj\school system\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+E:\repos\newproj\school system\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+E:\repos\newproj\school system\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+E:\repos\newproj\school system\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+E:\repos\newproj\school system\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\repos\newproj\school system\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\repos\newproj\school system\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\repos\newproj\school system\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+E:\repos\newproj\school system\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+E:\repos\newproj\school system\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+E:\repos\newproj\school system\obj\Debug\school system.csproj.AssemblyReference.cache
+E:\repos\newproj\school system\obj\Debug\school system.csproj.SuggestedBindingRedirects.cache
+E:\repos\newproj\school system\obj\Debug\school_system.Courses.resources
+E:\repos\newproj\school system\obj\Debug\school_system.login_form.resources
+E:\repos\newproj\school system\obj\Debug\school_system.Main.resources
+E:\repos\newproj\school system\obj\Debug\school_system.Properties.Resources.resources
+E:\repos\newproj\school system\obj\Debug\school system.csproj.GenerateResource.cache
+E:\repos\newproj\school system\obj\Debug\school system.exe.licenses
+E:\repos\newproj\school system\obj\Debug\school system.csproj.CoreCompileInputs.cache
+E:\repos\newproj\school system\obj\Debug\school system.csproj.CopyComplete
+E:\repos\newproj\school system\obj\Debug\school system.exe
+E:\repos\newproj\school system\obj\Debug\school system.pdb
